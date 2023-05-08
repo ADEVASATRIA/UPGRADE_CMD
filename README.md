@@ -1,5 +1,5 @@
 # UPGRADE_CMD
-![THUMNAIL ](./thumnail.png)
+![THUMNAIL ](./thumail.png)
 
 # DESKRIPSI 
   Pada repository ini saya melakukan configurasi powershell windows menjadi lebih bagus. Dengan menggunakan Starship sebagai kunci dari upgrade powershell tersebut.
